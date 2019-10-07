@@ -5,7 +5,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'model.json';
+    'model_js/model.json';
 
 const IMAGE_HEIGHT = 250
 const IMAGE_WIDTH = 141;
